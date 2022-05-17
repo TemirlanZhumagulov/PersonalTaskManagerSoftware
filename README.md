@@ -30,7 +30,7 @@ Wherever there is a need for planning.
 It should be remembered that this system is for individual use and there is no functionality for collaboration.
 
 
-:warning:	***Detailed description of the project in the Software Requirements Specification folder***
+:warning:	**Detailed description of the project in the Software Requirements Specification folder**
 
 ## <a name="How_to_launch_an_application_on_localhost">How to launch an application on localhost</a> 
 
