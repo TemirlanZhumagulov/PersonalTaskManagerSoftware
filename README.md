@@ -22,9 +22,13 @@ Gamification: The planning process itself is boring for many people and after se
 
 ### Practical value/Scope
 As a product: in personal life.
+
 As a system: in work, in education system.
+
 Wherever there is a need for planning.
+
 It should be remembered that this system is for individual use and there is no functionality for collaboration.
+
 
 ***Detailed description of the project in the Software Requirements Specification folder***
 
