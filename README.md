@@ -4,7 +4,7 @@
 
 - [Overview](#overview)
   - [Description](#description)
-  - [How to launch an application on localhost](#Howtolaunchanapplicationonlocalhost)
+  - [How to launch an application on localhost](#How to launch an application on localhost)
 - [Authors](#authors)
 
 ## Overview
