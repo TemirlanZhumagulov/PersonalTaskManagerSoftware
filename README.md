@@ -11,6 +11,10 @@
 
 ### Description
 
+Development of PTMS in order to solve the problem of overload from work through simplifying the processes of planning and gamification of the system.
+
+A distinctive feature of the software application is an increase in engagement, motivation, and, as a result, productivity with the help of gamification elements.
+
 Detailed description of the project in the Software Requirements Specification folder
 
 ### How to launch an application on localhost
