@@ -20,6 +20,7 @@ Detailed description of the project in the Software Requirements Specification f
 3. Then create a databasePTMS database
 4. Change your username and password in the application.properties file
 
+![](./screenshots/howToLaunch1.png)
 ![](./screenshots/howToLaunch2.png)
 ![](./screenshots/howToLaunch3.png)
 
