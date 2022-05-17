@@ -15,8 +15,9 @@ Detailed description of the project in the Software Requirements Specification f
 
 ### How to launch an application on localhost
 
-![](./screenshots/howToLaunch.png)
-![](./screenshots/howToLaunch1.png)
+1. You must have JDK 17 or above
+2. You must have PostgreSQL (PgAdmin or shell)
+
 ![](./screenshots/howToLaunch2.png)
 ![](./screenshots/howToLaunch3.png)
 
