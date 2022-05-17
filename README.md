@@ -15,15 +15,21 @@ Detailed description of the project in the Software Requirements Specification f
 
 ### How to launch an application on localhost
 
-1. You must have JDK 17 or above
-2. You must have PostgreSQL (PgAdmin or shell)
-3. Then create a databasePTMS database
-4. Change your username and password in the application.properties file
+1. You can run the app on Intellij IDEA community edition 
 
-![](./screenshots/howToLaunch1.png)
-![](./screenshots/howToLaunch2.png)
-![](./screenshots/howToLaunch3.png)
+2. You must have JDK 17 or above 
 
+3. You must have PostgreSQL, if you don't have it, you can download it here https://www.postgresql.org/download/
+
+4. You have to run pgAdmin or shell and create database
+![](./screenshots/2.png)
+![](./screenshots/3.png)
+5. Change your the path to the database, username and password in the application.properties file as shown on your PostgreSQL 
+![](./screenshots/4.png)
+6. Run the javaLevelUpApplication class
+![](./screenshots/5.png)
+7. Type localhost:8080 in the browser address bar 
+![](./screenshots/6.png)
 ## Authors
 
 - Me - [@TemirlanZhumagulov](https://github.com/TemirlanZhumagulov)
