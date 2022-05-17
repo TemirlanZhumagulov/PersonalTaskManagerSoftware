@@ -11,9 +11,18 @@
 
 ### Description
 
-Development of PTMS in order to solve the problem of overload from work through simplifying the processes of planning and gamification of the system.
+Due to the increase in information consumed and the number of things that need to be done, an increasing percentage of people are beginning to feel overworked. The traditional method of using a notepad with a pen is beginning to lose its former effectiveness, because many of the same processes have to be repeated and their design may take longer than necessary. The development of PTMS will help with the automation of many processes, and the gamification of the system will increase the involvement, motivation and efficiency of the user.
 
-A distinctive feature of the software application is an increase in engagement, motivation, and, as a result, productivity with the help of gamification elements.
+### Special features of IS
+Simplicity: Most similar applications are a bit difficult to use due to the large number of functions and details, which is why we decided to make the program minimalistic on the contrary.
+
+Gamification: The planning process itself is boring for many people and after several times using the application they become too lazy to use the application. Therefore, adding elements of the game will increase interest.
+
+### Practical value/Scope
+As a product: in personal life.
+As a system: in work, in education system.
+Wherever there is a need for planning.
+It should be remembered that this system is for individual use and there is no functionality for collaboration.
 
 Detailed description of the project in the Software Requirements Specification folder
 
