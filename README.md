@@ -26,7 +26,8 @@ It should be remembered that this system is for individual use and there is no f
 
 ***Detailed description of the project in the Software Requirements Specification folder***
 
-### How to launch an application on localhost
+<a name="How_to_launch_an_application_on_localhost">### How to launch an application on localhost
+</a> 
 
 1. You can run the app on Intellij IDEA community edition 
 
